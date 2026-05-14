@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/b74466ef-816c-429e-a2c4-59f54be25d6c/thumbnail" >
+</p>
 
 <!--
 **lewie-jee/lewie-jee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
